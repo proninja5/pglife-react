@@ -1,0 +1,23 @@
+.home-container {
+    background-image: url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1500&q=80');
+    background-size: cover;
+    background-position: center;
+    min-height: 90vh;
+    padding: 100px 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .home-container h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px #000;
+  }
+  
+  .home-container p {
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 3px #000;
+  }
+  
