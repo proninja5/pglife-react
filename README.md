@@ -32,7 +32,7 @@ Tools: XAMPP (Apache + MySQL)
 🔽 Clone Repository
 
 git clone https://github.com/proninja5/pglife-react.git
-cd pglife
+cd pglife-react
 
 💻 Frontend Setup
 
